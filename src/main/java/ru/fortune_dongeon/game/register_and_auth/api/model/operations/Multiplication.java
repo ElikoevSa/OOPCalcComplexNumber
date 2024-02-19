@@ -3,7 +3,7 @@ package ru.fortune_dongeon.game.register_and_auth.api.model.operations;
 import ru.fortune_dongeon.game.register_and_auth.api.model.ComplexNumber;
 import ru.fortune_dongeon.game.register_and_auth.api.model.Operation;
 
-public class Multiplication extends ComplexNumber implements Operation{
+public class Multiplication implements Operation{
 
 
     @Override
